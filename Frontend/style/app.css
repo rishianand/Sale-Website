@@ -1,0 +1,18 @@
+header{
+	background-color: #2ba6cb;
+	padding: 22px 0;
+}
+header h2{
+	color: #fff;
+	line-height: 45px;
+	margin: 0;
+}
+header h4{
+	color: #fff;
+	line-height: 45px;
+	margin: 0;
+}
+.orbit img{
+	width: 100%;
+	height: 400px;
+}

@@ -376,9 +376,9 @@
 
     settings: {
       animation: 'slide',
-      timer_speed: 10000,
+      timer_speed: 4000,
       pause_on_hover: true,
-      resume_on_mouseout: false,
+      resume_on_mouseout: true,
       animation_speed: 500,
       stack_on_small: false,
       navigation_arrows: true,
